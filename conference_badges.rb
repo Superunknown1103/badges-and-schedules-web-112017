@@ -18,4 +18,4 @@ def assign_rooms(speakers)
   return messages
 end
 
-def badge_maker()
+def printer()
